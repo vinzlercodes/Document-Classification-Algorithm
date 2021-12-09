@@ -14,6 +14,8 @@ In this repository, we use 50,000 IMDb movie reviews, specially selected for sen
 
 * **data_preprocess.ipynb** - This notebook takes in the data (avalialble in the data folder) and generates training set, validation set, test set, tokenizer (json file), and word embedding weights
 * **hatt_model.ipynb** - The notebook utilises the generated utility files from the previous file, along with different configurations as compared to the paper's (e.g. loss function, optimizer function, etc) trains, saves, and also evaluates the model with words' and sentences' weights visualizations.
+* Data - The folder consists of the raw data set used along with the GLoVE embeddding file that has been utilised. 
+* Utilities - The folder contains all the generated output files from data_preprocess.ipynb, so that we can directly feed them into hatt_model.ipynb.
 
 
 ## Requirements
