@@ -1,5 +1,4 @@
 # Document-Classification-Algorithm
-This repository contains project resources to create a document classification algorithm in practise
 
 Title: **Document Classification using Hierarchical Attention Networks**
 
@@ -13,12 +12,13 @@ In this repository, we use 50,000 IMDb movie reviews, specially selected for sen
 
 ## Contents
 
-* Python 3 (3.8+)
+* **data_preprocess.ipynb** - This notebook takes in the data (avalialble in the data folder) and generates training set, validation set, test set, tokenizer (json file), and word embedding weights
+* **hatt_model.ipynb** - The notebook utilises the generated utility files from the previous file, along with different configurations as compared to the paper's (e.g. loss function, optimizer function, etc) trains, saves, and also evaluates the model with words' and sentences' weights visualizations.
 
 
 ## Requirements
 
-* Python 3 (3.8+)
+* Python 3 (3.6)
 * json
 * numpy (1.18.5)
 * pandas (1.0.5)
