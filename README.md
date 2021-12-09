@@ -39,12 +39,12 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 
 ## Models used
-* Random Forest Classifier
-* Logistic Regression
-* Support Vector Machine (SVM)
-* Multi Nomial Naive Bayes (MNB)
-* Convolutional neural network (CNN)
-* Long short-term memory (LSTM)
+* Hierarchical Attention Networks
+
+![hierarchical_attention_network](https://user-images.githubusercontent.com/34100245/145474978-6212c109-9d38-4623-9ccc-dd66226c636e.png)
+
+
+
 
 ## Result
 |Model | F1 score | +MLSMOTE | Accuracy |  +MLSMOTE | Time|
