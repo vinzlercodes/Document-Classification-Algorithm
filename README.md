@@ -45,7 +45,7 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 * Word Encoder
 
-![word_encoder](https://user-images.githubusercontent.com/34100245/145475173-8f354a30-57a1-4cf8-9faf-95ab00b36760.png)
+<img height="600" src=https://user-images.githubusercontent.com/34100245/145475173-8f354a30-57a1-4cf8-9faf-95ab00b36760.png />
 
 
 
