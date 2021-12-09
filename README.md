@@ -48,9 +48,14 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 <img height="550" src=https://user-images.githubusercontent.com/34100245/145475173-8f354a30-57a1-4cf8-9faf-95ab00b36760.png />
 
 
-
-
 ## Result
+
+The blue 🔵 shades on the left represent sentence-level attention, and the red 🔴 shades represent word-level attention.
+
+<img width="850" alt="visualization_example" src="https://user-images.githubusercontent.com/34100245/145477603-97879987-3540-4ffb-a737-9255046de84a.png">
+
+
+
 |Model | F1 score | +MLSMOTE | Accuracy |  +MLSMOTE | Time|
 |--- | --- | --- | --- |--- |--- |
 |RF | 0.73 | 0.68 |0.46| 0.36 | 1.5 min | 
@@ -64,5 +69,5 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 ## How to Run
 * Clone the project
-* Run the test.py file to see the predicted result based on pickled train models.
+* 
 
