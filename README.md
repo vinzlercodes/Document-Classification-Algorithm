@@ -35,7 +35,7 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 * The frequency of number sentences in the document
 
-![image](https://user-images.githubusercontent.com/34100245/145473234-861ccc74-cb1f-479d-b3a9-435efe678ad9.png)
+<img height="300" src="https://user-images.githubusercontent.com/34100245/145473234-861ccc74-cb1f-479d-b3a9-435efe678ad9.png" />
 
 
 ## Models used
