@@ -41,11 +41,11 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 ## Models used
 * Hierarchical Attention Network
 
-![hierarchical_attention_network](https://user-images.githubusercontent.com/34100245/145474978-6212c109-9d38-4623-9ccc-dd66226c636e.png)
+<img height="600" src=https://user-images.githubusercontent.com/34100245/145474978-6212c109-9d38-4623-9ccc-dd66226c636e.png />
 
 * Word Encoder
 
-<img height="600" src=https://user-images.githubusercontent.com/34100245/145475173-8f354a30-57a1-4cf8-9faf-95ab00b36760.png />
+<img height="550" src=https://user-images.githubusercontent.com/34100245/145475173-8f354a30-57a1-4cf8-9faf-95ab00b36760.png />
 
 
 
