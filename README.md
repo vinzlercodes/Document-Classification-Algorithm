@@ -33,9 +33,9 @@ The goal of the project is to support software developers in improving the quali
 An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set. Reviews are scored as binary sentiment, so a 5-star IMDB rating results in a score of 0, and a rating >=7 results in a score of 1. The sentiment of reviews is derived from what is written about each movie. It does not contain any movies that are part of the test set with 25,000 reviews. Furthermore, IMDB reviews without labels are available for another 50,000 titles.
 .  
 
-* The frequency of each class occuring:
+* The frequency of number sentences in the document
 
-![classes](https://user-images.githubusercontent.com/69842690/144768268-f18bc7e8-66ae-4ee8-8b3f-371a6efa7158.png)
+![image](https://user-images.githubusercontent.com/34100245/145473234-861ccc74-cb1f-479d-b3a9-435efe678ad9.png)
 
 
 ## Models used
