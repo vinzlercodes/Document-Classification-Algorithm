@@ -8,7 +8,7 @@ Author:
 
 About:
 
-In this repository, we use 50,000 IMDb movie reviews, specially selected for sentiment analysis, as well as a newly-adapted version of a [Paper](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf) from the 2016 NAACL called Hierarchical Attention Networks for Document Classification.
+In this repository, we use 50,000 IMDb movie reviews, specially selected for sentiment analysis, as well as a newly-adapted version of a [Paper](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf), written by Yang et al. from the 2016 NAACL called Hierarchical Attention Networks for Document Classification.
 
 ## Contents
 
@@ -64,14 +64,12 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 ![download (2)](https://user-images.githubusercontent.com/34100245/145496426-fd09ff4d-072a-428c-9f20-53cb3a778dd3.png)
 
+|Author | Model | Data Set | Accuracy |
+|--- | --- | --- | --- |
+|Yang et al. | HN-ATT | IMDB |49.4|
+|Vinayak (me) | HN-GRU | IMDB |88.4  | 
+|Vinayak (me) | HN-GRU  | IMDB |84.4 |
 
-
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
 
 
 ## How to Run
