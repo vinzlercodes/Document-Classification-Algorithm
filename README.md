@@ -51,9 +51,18 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 ## Result
 
-The blue 🔵 shades on the left represent sentence-level attention, and the red 🔴 shades represent word-level attention.
+* Hierarchical Attention Network for Document Classification
 
-<img width="850" alt="visualization_example" src="https://user-images.githubusercontent.com/34100245/145477603-97879987-3540-4ffb-a737-9255046de84a.png">
+
+
+* Hierarchical Attention Network for Sentence Classification
+
+![download](https://user-images.githubusercontent.com/34100245/145496222-f46d78fe-613e-49de-8dd9-e38779250444.png)
+
+*  Sentence Classification
+
+![download (2)](https://user-images.githubusercontent.com/34100245/145496426-fd09ff4d-072a-428c-9f20-53cb3a778dd3.png)
+
 
 
 
