@@ -66,15 +66,11 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 
 
-|Model | F1 score | +MLSMOTE | Accuracy |  +MLSMOTE | Time|
-|--- | --- | --- | --- |--- |--- |
-|RF | 0.73 | 0.68 |0.46| 0.36 | 1.5 min | 
-|LR | 0.71 | 0.67 |0.40  | 0.30 | 9.21 min| 
-|SVM | 0.66  | 0.65 |0.32 | 0.33 | 8.92 min |
-|MNB | 0.67  | 0.66  |0.35 | 0.29 | 1.2 min|
-|MLP | 0.73 | 0.69 |0.46 | 0.34 | 33 min |
-|CNN | 0.62 |  0.61 |0.73 | 0.70 | 7.33 min|
-|LSTM | 0.61 | 0.60 |0.71| 0.71 |42 min|
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
 
 
 ## How to Run
