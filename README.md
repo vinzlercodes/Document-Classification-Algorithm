@@ -21,19 +21,14 @@ In this repository, we use 50,000 IMDb movie reviews, specially selected for sen
 
 ## Requirements
 
-* Python 3 (3.6)
-* json
-* numpy (1.18.5)
-* pandas (1.0.5)
-* Matplotlib (2.2.4)
-* Pydot
-* scikit-learn
-* spacy
-* tensorflow==2.3.0
-* tqdm
-* scikit-learn (0.23.1)
-* natural language tool kit (3.5)
-* keras (2.4.0)
+* Python 3
+* numpy
+* pandas
+* BeautifulSoup
+* Matplotlib
+* tensorflow
+* keras
+* (optional) CUDA cores
 
 ## Dataset
 
