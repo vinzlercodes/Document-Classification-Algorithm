@@ -53,6 +53,12 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 
 * Hierarchical Attention Network for Document Classification
 
+![download2](https://user-images.githubusercontent.com/34100245/145504812-d225823d-acf3-48cb-b5e3-9ab8cbb70563.png)
+
+* Document Classification
+
+![download (3)](https://user-images.githubusercontent.com/34100245/145504727-231fdf5e-d7be-4170-8ad8-d1f15fc66d80.png)
+
 
 
 * Hierarchical Attention Network for Sentence Classification
