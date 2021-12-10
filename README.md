@@ -29,7 +29,10 @@ In this repository, we use 50,000 IMDb movie reviews, specially selected for sen
 
 ## How to Run
 * Clone the project
-* 
+* Check if all library/package dependancies are fulfilled, if not install them.
+  * The project does not use too many external dependancies hence, you only need to install them using the command `!pip install (package_name)` in jupyter notebook cell, just before importing them. 
+ * Make sure you have the data as well downloaded.
+ * Then just run both the files and everything should work fine. 
 
 ## Dataset
 
