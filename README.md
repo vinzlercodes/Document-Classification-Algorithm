@@ -72,6 +72,6 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 |Author | Model | Data Set | Accuracy |
 |--- | --- | --- | --- |
 |Yang et al. | HN-ATT | IMDB |49.4|
-|Vinayak (me) | HN-GRU | IMDB |88.4  | 
-|Vinayak (me) | HN-GRU  | IMDB |84.4 |
+|Vinayak (me) | HN-GRU (Document) | IMDB |88.4  | 
+|Vinayak (me) | HN-GRU (Sentence)  | IMDB |84.4 |
 
