@@ -15,6 +15,7 @@ In this repository, we use 50,000 IMDb movie reviews, specially selected for sen
 * **Document_Classifier.ipynb (Models Folder)** - This notebook contains, the actual modelling of the Hierarchial Attention Network, it then takes in the data (avalialble in the data folder) and utilisng the model classifies sentences in the document and assigns attention values (more attention = sentence is important for classification of the document, less attention = sentence is not very important for classification of the document).
 * **Sentence_Classifier.ipynb (Models Folder)** - This notebook contains, the actual modelling of the Hierarchial Attention Network, it then takes in the data (avalialble in the data folder) and utilisng the model classifies words in the sentences of the document and assigns attention values (more attention = sentence is important for classification of the sentence and ultimately the document, less attention = sentence is not very important for classification of the sentence and ultimately the document).
 * **Data Folder** - The folder consists of the raw data set used.
+* **NLP_Project_Report** - PDF file consisting of a comprehensive writeup of the entire project implementation and also comparison to the paper to which this algorithm is compared to.
 
 ## Requirements
 
