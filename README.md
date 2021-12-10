@@ -39,19 +39,14 @@ In this repository, we use 50,000 IMDb movie reviews, specially selected for sen
 
 An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set. Reviews are scored as binary sentiment, so a 5-star IMDB rating results in a score of 0, and a rating >=7 results in a score of 1. The sentiment of reviews is derived from what is written about each movie. It does not contain any movies that are part of the test set with 25,000 reviews. Furthermore, IMDB reviews without labels are available for another 50,000 titles.
 
-* The frequency of number sentences in the document
-
-<img height="300" src="https://user-images.githubusercontent.com/34100245/145473234-861ccc74-cb1f-479d-b3a9-435efe678ad9.png" />
-
-
 ## Models used
-* Hierarchical Attention Network
+* Hierarchical Attention Network for Sentence Classification
 
-<img height="600" src=https://user-images.githubusercontent.com/34100245/145474978-6212c109-9d38-4623-9ccc-dd66226c636e.png />
+<img height="600" src=https://user-images.githubusercontent.com/34100245/145495765-b46bc3ae-33e2-44ee-9556-73a1dcc36786.png />
 
-* Word Encoder
+* Hierarchical Attention Network for Word Classification
 
-<img height="550" src=https://user-images.githubusercontent.com/34100245/145475173-8f354a30-57a1-4cf8-9faf-95ab00b36760.png />
+<img height="550" src=https://user-images.githubusercontent.com/34100245/145495832-395349bd-36b9-458a-84ff-727228b75f05.png />
 
 
 ## Result
