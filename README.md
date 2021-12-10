@@ -13,11 +13,8 @@ In this repository, we use 50,000 IMDb movie reviews, specially selected for sen
 ## Contents
 
 * **Document_Classifier.ipynb** - This notebook contains, the actual modelling of the Hierarchial Attention Network, it then takes in the data (avalialble in the data folder) and utilisng the model classifies sentences in the document and assigns attention values (more attention = sentence is important for classification of the document, less attention = sentence is not very important for classification of the document).
-* **hatt_model.ipynb** - The notebook utilises the generated utility files from the previous file, along with different configurations as compared to the paper's (e.g. loss function, optimizer function, etc) trains, saves, and also evaluates the model with words' and sentences' weights visualizations.
-* **Data** - The folder consists of the raw data set used along with the GLoVE embeddding file that has been utilised. 
-* **Utilities** - The folder contains all the generated output files from data_preprocess.ipynb, so that we can directly feed them into hatt_model.ipynb.
-* **Model_Weights** - 
-
+* **Sentence_Classifier.ipynb** - This notebook contains, the actual modelling of the Hierarchial Attention Network, it then takes in the data (avalialble in the data folder) and utilisng the model classifies words in the sentences of the document and assigns attention values (more attention = sentence is important for classification of the sentence and ultimately the document, less attention = sentence is not very important for classification of the sentence and ultimately the document).
+* **Data** - The folder consists of the raw data set used.
 
 ## Requirements
 
@@ -53,7 +50,6 @@ An analysis of 50,000 IMDB movie reviews was conducted for the labeled data set.
 * Document Classification
 
 ![download (3)](https://user-images.githubusercontent.com/34100245/145504727-231fdf5e-d7be-4170-8ad8-d1f15fc66d80.png)
-
 
 
 * Hierarchical Attention Network for Sentence Classification
